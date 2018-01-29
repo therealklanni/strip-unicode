@@ -1,0 +1,27 @@
+{
+  "name": "@therealklanni/strip-unicode",
+  "version": "1.0.0",
+  "description": "Strip Unicode characters from strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Kevin Lanni <therealklanni@gmail.com> (https://github.com/therealklanni)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealklanni/strip-unicode.git"
+  },
+  "keywords": [
+    "strip",
+    "unicode"
+  ],
+  "bugs": {
+    "url": "https://github.com/therealklanni/strip-unicode/issues"
+  },
+  "homepage": "https://github.com/therealklanni/strip-unicode#readme"
+}
